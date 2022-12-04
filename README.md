@@ -19,5 +19,5 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>             
   </div>
     
- ![Snake animation](https://github.com/rafaballerini/BrunoMars13/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/BrunoMars13/BrunoMars13/blob/output/github-contribution-grid-snake.svg)
     
