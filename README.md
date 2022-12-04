@@ -12,7 +12,7 @@
   <div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMars13&show_icons=true&bg_color=050a10&title_color=ffff00&text_color=ffffff&icon_color=ffff00&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMars13&layout=compact&langs_count=7&bg_color=050a10&title_color=ffff00&text_color=ffffff&icon_color=ffff00"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMars13&layout=compact&langs_count=7&bg_color=050a10&title_color=ffff00&text_color=ffffff&icon_color=ffff00"/>
 </div>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
