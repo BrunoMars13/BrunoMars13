@@ -9,7 +9,7 @@
 - 😄 Pronomes: <b> ele/dele </b>
 - ⚡ Curiosidade: <b> Tenho 21 aons </b>
   
-  <div align="left">
+  <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMars13&show_icons=true&bg_color=050a10&title_color=ffff00&text_color=ffffff&icon_color=ffff00&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMars13&layout=compact&langs_count=7&bg_color=050a10&title_color=ffff00&text_color=ffffff&icon_color=ffff00"/>
