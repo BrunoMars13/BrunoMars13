@@ -17,6 +17,7 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>             
-    </div>
-
-![Snake animation](https://github.com/rafaballerini/BrunoMars13/blob/output/github-contribution-grid-snake.svg)
+  </div>
+    
+ ![Snake animation](https://github.com/rafaballerini/BrunoMars13/blob/output/github-contribution-grid-snake.svg)
+    
