@@ -30,6 +30,8 @@
  </div>
 
   <div align="center" color=ffff00>
+
+##
     
 ### Contador de visitas
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrunoMars13}/count.svg" /></p> 
