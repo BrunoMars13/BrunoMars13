@@ -1,4 +1,10 @@
 <div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoMars13&repo=github-readme-stats)](https://github.com/BrunoMars13/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrunoMars13)](https://github.com/BrunoMars13/github-readme-stats)
+
+<div align="center">
 <h2> Olá, meu nome é Bruno ! 👋 </h2>  
   <div align="left">
     
@@ -7,7 +13,7 @@
 - 👯 Estou procurando colaborar com <b> construção de site </b>
 - 💬 Pergunte-me sobre oque você quiser saber !
 - 😄 Pronomes: <b> ele/dele </b>
-- ⚡ Curiosidade: <b> Tenho 21 anos </b>
+- ⚡ Curiosidade: <b> Tenho 22 anos </b>
   
   <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -20,4 +26,3 @@
   </div>
     
  ![Snake animation](https://github.com/BrunoMars13/BrunoMars13/blob/output/github-contribution-grid-snake.svg)
-    
