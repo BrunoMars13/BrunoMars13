@@ -7,7 +7,7 @@
 - 👯 Estou procurando colaborar com <b> construção de site </b>
 - 💬 Pergunte-me sobre oque você quiser saber !
 - 😄 Pronomes: <b> ele/dele </b>
-- ⚡ Curiosidade: <b> Tenho 21 aons </b>
+- ⚡ Curiosidade: <b> Tenho 21 anos </b>
   
   <div align="center">
   <a href="https://github.com/rafaballerini">
