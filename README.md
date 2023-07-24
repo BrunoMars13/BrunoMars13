@@ -1,12 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff00&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+Bruno+Marques;Eu+tenho+22+anos;Eu+sou+do+Brazil;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff00&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,o+meu+nome+é+Bruno+Marques;Eu+tenho+22+anos;Eu+sou+do+Brazil;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Atualmente estou trabalhando com <b> Front-end </b>
 - 👯 Estou procurando colaborar com <b> construção de site </b>
 - 💬 Pergunte-me sobre oque você quiser saber !
 - 😄 Pronomes: <b> ele/dele </b>
-- ⚡ Curiosidade: <b> Tenho 22 anos </b>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
